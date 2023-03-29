@@ -41,7 +41,7 @@ Contact us
 
 
 ## Github Preview 
-[Texax](https://627md-tajul-islam.github.io/texas/)
+[Texax](https://moksy-lab.github.io/texas/)
 
 
 ## Like our project ? 
