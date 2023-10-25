@@ -54,7 +54,8 @@
     border-color: #37B9C6;
     box-shadow: none;
     border-radius: 0px;
-    color: rgb(0, 0, 0)
+    color: #fff;
+    font-weight: 600;
 }
 .calltoactioncaqgz6ps5b0 .btn-primary:not(:disabled):not(.disabled):focus,
 .calltoactioncaqgz6ps5b0 .btn-primary:not(:disabled):not(.disabled):active,
@@ -62,7 +63,8 @@
 {
     background-color: #37B9C6;
     border-color: #37B9C6;
-    color: rgb(0, 0, 0)
+    color: #fff;
+    font-weight: 600
 }
 /* #cjerry(calltoactioncaqgz6ps5b0) #css ends  */
 /*****cjerry*****/
@@ -107,6 +109,9 @@
 
 /*****freya*****/
 /* #freya(freyategxpfzk1ni) #css starts */
+.freyategxpfzk1ni .fdb-block img + h2 {
+    margin-top: 10px
+}
 .freyategxpfzk1ni .fdb-block {
     padding: 0px
   }
@@ -153,7 +158,7 @@
 /*****foot*****/
     /* #foot(footftkxsoham8f) #css starts  */
     .footftkxsoham8f .fdb-block{
-        padding: 2.5rem 0
+        padding: 0rem 0
     }
     .footftkxsoham8f .fdb-block .nav-link{
         margin-left: -14px;
